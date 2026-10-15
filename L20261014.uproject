@@ -15,6 +15,10 @@
 		{
 			"Name": "Switchboard",
 			"Enabled": true
+		},
+		{
+			"Name": "DMXFixtures",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
